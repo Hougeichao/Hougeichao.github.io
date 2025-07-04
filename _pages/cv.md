@@ -20,22 +20,13 @@ Education
   * Advisor: Professor Tianyun Li
   * Thesis: _Simulation Analysis of Structural Crashworthiness in Ship Collision_
 
-Work experience
+Research interests
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Solid Mechanics
+* Mechanical Metamaterials
+* Topology Optimization
+* Finite Element Methods
+* Computational Mechanics
   
 Skills
 ======
