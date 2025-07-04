@@ -27,15 +27,6 @@ Research interests
 * Topology Optimization
 * Finite Element Methods
 * Computational Mechanics
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -55,6 +46,9 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Additional
 ======
-* Currently signed in to 43 different slack teams
+* Professional skill: MATLAB, Ansys LS-DYNA, LS-TaSC, Abaqus, Python, AutoCAD, C/C++
+* Language: Chinese (Native), English (Fluent), Japanese (Fluent)
+* Leadership: Leader of School Soccer Team
+* Interests: Soccer, Badminton, Table tennis, Basketball
