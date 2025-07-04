@@ -44,15 +44,15 @@ Conference presentations
 Teaching
 ======
 * Viterbi School of Engineering, USC, Jan. 2023—May 2023
-  _Teaching Assistant_
-  AME 204: _Strength of Materials._ Tutored undergraduates, led discussion sections, held weekly office hours, prepared weekly quizzes and exams, graded assignments and examinations.
-  AME 509: _Applied Elasticity._  Led weekly office hours, graded assignments.
+  * _Teaching Assistant_
+  * AME 204: _Strength of Materials._ Tutored undergraduates, led discussion sections, held weekly office hours, prepared weekly quizzes and exams, graded assignments and examinations.
+  * AME 509: _Applied Elasticity._  Led weekly office hours, graded assignments.
 * School of Engineering, UTOKYO, Jun. 2017—Jul. 2018
-  _Teaching Assistant_
-  _Mathematical Programming and Optimization_, _Project Practice: Design for Paper Bridge._ Tutored undergraduates, led discussion sections, graded assignments and examinations.
+  * _Teaching Assistant_
+  * _Mathematical Programming and Optimization_, _Project Practice: Design for Paper Bridge._ Tutored undergraduates, led discussion sections, graded assignments and examinations.
 * School of Naval Architecture and Ocean Engineering, HUST, Nov. 2012—Jan. 2013
-  _Teaching Assistant_
-  _Calculus._ Conducted weekly Q & A sessions, designed midterm exam.
+  * _Teaching Assistant_
+  * _Calculus._ Conducted weekly Q & A sessions, designed midterm exam.
 
   
 Additional
