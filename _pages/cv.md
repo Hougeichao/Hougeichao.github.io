@@ -11,9 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Aerospace and Mechanical Engineering, University of Southern California (USC), 2025 (expected)
+  * Advisor: Professor Paul Plucinsky
+* M.E. in Systems Innovation, University of Tokyo (UTOKYO), 2019
+  * Advisor: Professor Katsuyuki Suzuki
+  * Thesis: _Robust Topology Optimization under Uncertainty_
+* B.E. in Naval Architecture and Ocean Engineering, Huazhong University of Science and Technology (HUST), 2016
+  * Advisor: Professor Tianyun Li
+  * Thesis: _Simulation Analysis of Structural Crashworthiness in Ship Collision_
 
 Work experience
 ======
