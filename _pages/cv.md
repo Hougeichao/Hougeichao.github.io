@@ -34,17 +34,26 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Conference presentations
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* “Programming Bistability in Geometrically Perturbed Mechanical Metamaterials”, ASME IMECE, Portland, OR, 2024.
+* “Tunable Bistability in Mechanical Metamaterials through Geometric Perturbations”, SoCal Solids Conference, University of Southern California, Los Angeles, CA, 2023.
+* “Tunable Bistability in Mechanical Metamaterials through Geometric Perturbations”, SES Annual Technical Meeting, University of Minnesota, Minneapolis, MN, 2023.
+
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Viterbi School of Engineering, USC, Jan. 2023—May 2023
+  _Teaching Assistant_
+  AME 204: _Strength of Materials._ Tutored undergraduates, led discussion sections, held weekly office hours, prepared weekly quizzes and exams, graded assignments and examinations.
+  AME 509: _Applied Elasticity._  Led weekly office hours, graded assignments.
+* School of Engineering, UTOKYO, Jun. 2017—Jul. 2018
+  _Teaching Assistant_
+  _Mathematical Programming and Optimization_, _Project Practice: Design for Paper Bridge._ Tutored undergraduates, led discussion sections, graded assignments and examinations.
+* School of Naval Architecture and Ocean Engineering, HUST, Nov. 2012—Jan. 2013
+  _Teaching Assistant_
+  _Calculus._ Conducted weekly Q & A sessions, designed midterm exam.
+
   
 Additional
 ======
