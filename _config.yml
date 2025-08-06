@@ -252,7 +252,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: teaching
+      type: Mentorship
     values:
       layout: single
       author_profile: true
