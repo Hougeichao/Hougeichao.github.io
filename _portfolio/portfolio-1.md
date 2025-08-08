@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/Design-exploration.png' width='500' height='300'>"
+title: "Programming bistability in geometrically perturbed mechanical metamaterials"
+excerpt: "Design exploration<br/><img src='/images/Design-exploration.png' width='500' height='300'>"
 collection: portfolio
 ---
 
