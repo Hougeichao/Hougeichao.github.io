@@ -1,6 +1,6 @@
 ---
 title: "Approximating a general surface by deployable origami structures using neural networks"
-excerpt: "Design exploration<br/><img src='/images/Design-exploration.png' width='500' height='300'>"
+excerpt: "Representative examples<br/><img src='/images/ML_project.pdf' width='500' height='300'>"
 collection: portfolio
 ---
 
