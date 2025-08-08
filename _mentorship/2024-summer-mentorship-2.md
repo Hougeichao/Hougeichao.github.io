@@ -1,6 +1,6 @@
 ---
 title: "Teaching experience 2"
-collection: teaching
+collection: mentorship
 type: "Workshop"
 permalink: /mentorship/2024-summer-mentorship-2
 venue: "University 1, Department"
