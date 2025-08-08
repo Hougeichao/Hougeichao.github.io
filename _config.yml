@@ -227,6 +227,10 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  mentorship:
+    output: true
+    permalink: /mentorship/:path/
+
 
 
 # These settings control how pages and collections are included in the site
@@ -253,6 +257,15 @@ defaults:
   - scope:
       path: ""
       type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _mentorship
+  - scope:
+      path: ""
+      type: mentorship
     values:
       layout: single
       author_profile: true
