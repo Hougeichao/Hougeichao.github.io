@@ -1,6 +1,6 @@
 ---
 title: "Teaching experience 1"
-collection: teaching
+collection: mentorship
 type: "Undergraduate course"
 permalink: /mentorship/2022-summer-mentorship-1
 venue: "University 1, Department"
