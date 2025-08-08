@@ -2,9 +2,9 @@
 title: "Teaching experience 2"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /mentorship/2024-summer-mentorship-2
 venue: "University 1, Department"
-date: 2015-01-01
+date: 2024 Summer
 location: "City, Country"
 ---
 
