@@ -229,7 +229,7 @@ collections:
     permalink: /:collection/:path/
   mentorship:
     output: true
-    permalink: /mentorship/:path/
+    permalink: /:collection/:path/
 
 
 
