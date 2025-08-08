@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "SHINE (Summer High School Intensive in Next-Gen Engineering) Program Mentor"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "USC"
-date: 2014-01-01
-location: "City, Country"
+venue: "Viterbi School of Engineering, USC"
+date: 2022 Summer
+location: "Los Angeles, CA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Supervised a high school student on project titled “Designing and Making Mechanism-Based Metamaterials”
 
 Heading 1
 ======
